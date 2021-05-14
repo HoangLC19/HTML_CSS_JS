@@ -1,6 +1,7 @@
 /********** Base styles **********/
     * {
-        box-sizing: border-box;
+        box-sizing:border-box;
+        margin: 0;
     }
     h1 {
         margin-bottom: 15px;
@@ -18,8 +19,8 @@
     p {
         width: 90%;
         margin: 10px;
-        clear: both;
         padding: 10px;
+        clear: both;
     }
   
     .Chicken {
@@ -70,7 +71,7 @@
         width: 25%;
         }
         .col-lg-4 {
-        width: 30%;
+        width: 31.3%;
         }
         .col-lg-5 {
         width: 41.66%;
